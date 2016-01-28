@@ -2,7 +2,7 @@
 # Fichero de configuración de paquetes de personalización de Guadalinex v6
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: nombre-del-paquete
+name: ggcloud-server-rama-trusty 
 
 # Autor 
 author: nombre del autor <usuario@dominio.com>
