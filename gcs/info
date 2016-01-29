@@ -25,7 +25,7 @@ shortdesc: "descripción corta"
 longdesc: "descripción larga\n linea1\n linea2"
 
 # Versión del paquete
-version: 1
+version: 2
 
 # Cambios en esta versión
 changes:
