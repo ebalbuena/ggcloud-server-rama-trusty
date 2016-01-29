@@ -11,7 +11,7 @@ author: nombre del autor <usuario@dominio.com>
 priority: optional
 
 # Section
-package-section: seccion_de_la_aplicacion
+section: metapaquete 
 
 # Desktop menu entry (man menufile)
 #menu-needs="X11|text|vc|wm"
@@ -25,7 +25,7 @@ shortdesc: "descripción corta"
 longdesc: "descripción larga\n linea1\n linea2"
 
 # Versión del paquete
-version: v6
+version: 1
 
 # Cambios en esta versión
 changes:
